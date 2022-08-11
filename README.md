@@ -20,6 +20,8 @@ Visualizations:
 
 ## Results
 
+[link to dashboard](https://public.tableau.com/app/profile/karen.grewal/viz/NYCCitibikeChallenge_16601043070170/CitibikeDataAnalysis?publish=yes)
+
 ### Checkout Times for Users
 
 ![User_Checkouts](https://github.com/kareng013/bikesharing/blob/main/Images/Checkout%20Times.png)
